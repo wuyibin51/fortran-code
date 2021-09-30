@@ -1,0 +1,9 @@
+'绘图数据特征值eigval'                                                                 1.70141e+038
+'待扩边数据类型input_type(1:为1D剖面数据；2:为2D平面数据)'                             2
+'扩边方法expand_method(1:边界值为零；2:为所有边界数据的平均值；3:为所有数据的平均值)'  3
+'扩边大小调整因子factor_m'                                                             1.0
+'扩边大小调整因子factor_n'                                                             1.0
+'扩边前1D剖面数据文件名input_1Dfile'                                                   扩边前.dat
+'扩边前2D平面数据文件名input_2Dfile'                                                   扩边前.grd
+'扩边后1D剖面数据文件名output_1Dfile'                                                  扩边后.dat
+'扩边后2D平面数据文件名output_2Dfile'                                                  扩边后.grd
